@@ -7,7 +7,6 @@ import java.util.List;
 import java.util.Random;
 import javax.swing.*;
 
-//основной класс приложения
 public class VisualSort extends JPanel {
         //список объектов
         private List<Object> shapes = new ArrayList<>();
